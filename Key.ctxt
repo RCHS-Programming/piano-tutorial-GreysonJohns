@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Key
-comment1.params=keyName\ soundFile
-comment1.target=Key(java.lang.String,\ java.lang.String)
+comment1.params=keyName\ soundFile\ img1\ img2
+comment1.target=Key(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
 comment1.text=\r\n\ Create\ a\ new\ key\ linked\ to\ a\ given\ keyboard\ key,\ and\ with\ a\ given\ sound.\r\n
 comment2.params=
 comment2.target=void\ act()
