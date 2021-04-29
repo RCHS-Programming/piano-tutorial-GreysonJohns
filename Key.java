@@ -1,3 +1,4 @@
+
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
 
 public class Key extends Actor
@@ -17,6 +18,8 @@ public class Key extends Actor
         sound = soundFile;
         upImage = img1;
         downImage = img2;
+        setImage(upImage);
+        isDown=false;
     }
 
     /**
